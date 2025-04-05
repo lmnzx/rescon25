@@ -6,7 +6,7 @@ config GitHub OAuth, have these env
 `
 GITHUB_CLIENT_ID 
 GITHUB_CLIENT_SECRET 
-JWT_SECRET +
+JWT_SECRET
 OAUTH_REDIRECT_URL
 `
 
